@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    border: 3px solid #000;
+}
+td{
+    border: 3px solid #000;
+    min-width: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.minX{
+    background-color: green;
+}
+.maxX{
+    background-color: orange;
+}
+.minY{
+    border: 5px solid red;
+}
+.maxY{
+    border: 5px solid blue;
+}
